@@ -1,3 +1,4 @@
+
 BlackGold.MainMenu = function() {}
 
 BlackGold.MainMenu.prototype = {    

@@ -1,4 +1,4 @@
-//Creating an global variable of the BlackGold object. Must only be done once
+//Creating an global variable of the paperToss object. Must only be done once
 var BlackGold = function () {};
 
 BlackGold.Boot = function () {};

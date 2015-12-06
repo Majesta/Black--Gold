@@ -64,6 +64,6 @@ BlackGold.Game.prototype = {
         }
         paper.reset(x, y);
         paper.revive();
-     },
+     }
     
 }
