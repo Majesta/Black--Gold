@@ -7,8 +7,9 @@ BlackGold.Preload.prototype = {
         //note to self you have to preload all the assets you want to use in the state before. Then you can actually use them. Cant use             them if you preload and create them in the same state.
         this.load.image('background', 'assets/images/background.png');
         this.load.image('player', 'assets/images/player.png');
-        this.load.image('basket', 'assets/images/basket.png');
-        this.load.image('projectile', 'assets/images/paper.png');
+        this.load.image('basket', 'assets/images/wickerbasket.png');
+        this.load.image('projectile', 'assets/images/purpleball.png');
+        this.load.image('background', 'assets/images/background.png');
 
         //note to self you have to preload all the assets you want to use in the state before. Then you can actually use them. Cant use them if you preload and create them in the same state.
         
